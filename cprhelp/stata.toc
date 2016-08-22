@@ -1,0 +1,10 @@
+d Oprettet:	22-06-2016
+d Beskrivelse:	cprhelp er et program der automatisk udtrækker køn, alder og fødselsdato udfra cpr nr. 
+d I tilfælde hvor cpr nr kun består af 9 tal fikser den også dette problem ved at sætte det manglende 0 foran.
+v 1
+f cprhelp.ado
+f cprhelp.sthlp
+f cprhelp.dta
+p cprhelp 	Et program som generer alder, køn og fødselsdagsdato udfra cpr
+d Udarbejdet af Donna Wolff og Søren Bie Bogh
+d Support: 	Soren.Bie.Bogh@rsyd.dk eller Donna.Wolff@rsyd.dk
