@@ -1,14 +1,8 @@
-
-TITLE
-	cprhelp.  Pakke som hjælper med cpr nr
-
-DESCRIPTION/AUTHORS
-	Udarbejdet af Donna Wolff og Søren Bie Bogh.
+v 2
+d cprhelp.  Pakke som hjÃ¦lper med cpr nr
+d Udarbejdet af Donna Wolff og SÃ¸ren Bie Bogh.
             
 
-INSTALLATION FILES                 (type net install cprhelp)
-      	cprhelp.ado
-     	cprhelp.sthlp
-
-ANCILLARY FILES                    (type net get cprhelp)
-    	cprhelp.dta
+f cprhelp.ado
+f prhelp.sthlp
+f cprhelp.dta
