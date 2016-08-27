@@ -1,6 +1,3 @@
-v 14
-d cprhelp. Pakke som hjælper med cpr nr
-d Udarbejdet af Donna Wolff og Søren Bie Bogh.
-f cprhelp.ado
-f cprhelp.sthlp
-f cprhelp.dta
+v 3
+d Hello World
+f hello.ado
