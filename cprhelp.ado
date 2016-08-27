@@ -20,7 +20,7 @@ program define cprhelp
 		label var bdate "fødselsdato"
 	drop bday bmon byear pos7 cen
 	 
-	*køn (0 kvinde 1 mand)/Users/cyrixmorten/Downloads/stata-master/cprhelp/cprhelp.sthlp
+	*køn (0 kvinde 1 mand)
 	gen control 	= real(substr(cpr,7,4))
 		generate sex 	= mod(control,2)
 	label define sex1 1 "1male" 0 "0female"
