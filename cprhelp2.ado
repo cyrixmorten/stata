@@ -1,4 +1,4 @@
-program define cprhelp			
+program define cprhelp2			
 
 	tostring cpr, replace
 
