@@ -1,3 +1,3 @@
 program define hello
-  di "Hello World"
+  di "Hvem er for sej??"
 end
