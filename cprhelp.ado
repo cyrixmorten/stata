@@ -1,4 +1,3 @@
-program drop cprhelp
 program define cprhelp			
 
 	tostring cpr, replace
