@@ -2,7 +2,7 @@ v 2
 d Stata programmer skrevet af Donna Lykke Wollf og Søren Bie Bogh
 d Senest opdateret: 06-09-2016
 d Beskrivelse:	
-d Nedenstående kan du se hvilket programmer som er tilrådighed. 
+d Nedenstående kan du se, hvilke programmer som er tilrådighed. 
 d .
 d En beskrivelse af hvad de enkelte programmer fås ved at skriver følgende i Stata:
 d net descibe programnavn
