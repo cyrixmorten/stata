@@ -1,8 +1,6 @@
 v 2
 d Stata programmer skrevet af Donna Lykke Wollf og Søren Bie Bogh
-d
 d Senest opdateret: 06-09-2016
-d
 d Beskrivelse:	
 d Nedenstående kan du se hvilket programmer som er tilrådighed. 
 d En beskrivelse af hvad de enkelte programmer fås ved at skriver følgende i Stata
