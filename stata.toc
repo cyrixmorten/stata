@@ -11,5 +11,6 @@ f cprhelp2.sthlp
 f cprhelp2.dta
 p cprhelp2 Et program som generer alder, køn og fødselsdagsdato udfra cpr
 p hello Hello World
+d
 d Udarbejdet af Donna Wolff og Søren Bie Bogh
 d Support: Soren.Bie.Bogh@rsyd.dk eller Donna.Wolff@rsyd.dk
