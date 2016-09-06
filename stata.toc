@@ -1,10 +1,10 @@
 v 2
 d Stata programmer skrevet af Donna Lykke Wollf og Søren Bie Bogh
 d
-d Senest opdateret: 206-09-2016
+d Senest opdateret: 06-09-2016
 d
 {title:Beskrivelse:}
-d 	cprhelp er et program der automatisk udtrækker køn, alder og fødselsdato udfra cpr nr. 
+d 	cprhelp er et program der automatisk udtrækker køn og fødselsdato udfra cpr nr. 
 d I tilfælde hvor cpr nr kun består af 9 tal fikser den også dette problem ved at sætte det manglende 0 foran.
 f hello.ado
 f cprhelp2.ado
