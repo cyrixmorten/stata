@@ -3,14 +3,16 @@ d Stata programmer skrevet af Donna Lykke Wollf og Søren Bie Bogh
 d Senest opdateret: 06-09-2016
 d Beskrivelse:	
 d Nedenstående kan du se hvilket programmer som er tilrådighed. 
-d En beskrivelse af hvad de enkelte programmer fås ved at skriver følgende i Stata
+d .
+d En beskrivelse af hvad de enkelte programmer fås ved at skriver følgende i Stata:
 d net descibe programnavn
+d .
 f hello.ado
 f cprhelp2.ado
 f cprhelp2.sthlp
 f cprhelp2.dta
 p cprhelp2 Et program som generer alder, køn og fødselsdagsdato udfra cpr
 p hello Hello World
-d
+d ............................................................................
 d Udarbejdet af Donna Wolff og Søren Bie Bogh
 d Support: Soren.Bie.Bogh@rsyd.dk eller Donna.Wolff@rsyd.dk
