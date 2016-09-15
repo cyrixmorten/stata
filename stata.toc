@@ -12,7 +12,7 @@ f cprhelp2.sthlp
 f misschk.ado
 f misschk.sthlp
 p cprhelp2 Et program som generer alder, køn og fødselsdagsdato udfra cpr
-p misschk examines patterns of missing data for a set ofvariables
+p misschk examines patterns of missing data for a set of variables
 
 d ............................................................................
 d Udarbejdet af Donna Wolff og Søren Bie Bogh
