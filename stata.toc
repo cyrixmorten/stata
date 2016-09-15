@@ -1,6 +1,6 @@
 v 2
 d Stata programmer skrevet af Donna Lykke Wollf og Søren Bie Bogh
-d Senest opdateret: 06-09-2016
+d Senest opdateret: 15-09-2016
 d Beskrivelse:	
 d Nedenstående kan du se, hvilke programmer som er tilrådighed. 
 d .
@@ -9,7 +9,8 @@ d net descibe programnavn
 d .
 f cprhelp2.ado
 f cprhelp2.sthlp
-f cprhelp2.dta
+f misschk.ado
+f misschk.sthlp
 p cprhelp2 Et program som generer alder, køn og fødselsdagsdato udfra cpr
 p misschk examines patterns of missing data for a set ofvariables
 
