@@ -3,14 +3,17 @@ d Stata programmer skrevet af Donna Lykke Wollf og Søren Bie Bogh
 d Senest opdateret: 15-09-2016
 d Beskrivelse:	
 d Nedenstående kan du se, hvilke programmer som er tilrådighed. 
-d .
+d 
 d En beskrivelse af hvad de enkelte programmer fås ved at skriver følgende i Stata:
 d net descibe programnavn
-d .
+d 
 f cprhelp2.ado
 f cprhelp2.sthlp
 f misschk.ado
 f misschk.sthlp
+f lablist.ado
+f lablist.sthlp
+p lablist Lister alle variabler med tilhøtende labels. Især brugbar til logfiler
 p cprhelp2 Et program som generer alder, køn og fødselsdagsdato udfra cpr
 p misschk examines patterns of missing data for a set of variables
 
