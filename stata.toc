@@ -13,6 +13,9 @@ f misschk.ado
 f misschk.sthlp
 f lablist.ado
 f lablist.sthlp
+f info.ado
+f info.sthlp
+p info Giver info om dato, program og datafil
 p lablist Lister alle variabler med tilhøtende labels. Især brugbar til logfiler
 p cprhelp2 Et program som generer alder, køn og fødselsdagsdato udfra cpr
 p misschk examines patterns of missing data for a set of variables
